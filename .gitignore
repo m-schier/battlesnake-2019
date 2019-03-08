@@ -1,0 +1,9 @@
+bin/
+obj/
+.vscode/
+.vs/
+*.txt
+Properties/launchSettings.json
+__pycache__/
+*-req.json
+*-resp.json
