@@ -9,6 +9,10 @@ The team efforts were supported by the Institute for Information Processing (TNT
 
 Our team placed 2nd in the Intermediate division.
 
+## Paper
+The algorithms and heuristics used in this software are described in more detail in our publication 
+[Adversarial N-player Search using Locality for the Game of Battlesnake](https://dl.gi.de/handle/20.500.12116/29001) 
+
 ## Content
 The code in this repository is a heavily cut and edited version of our tournament code. Many agents, heuristics, metrics and functions that are not required
 to run were stripped. This controller does however perform exactly the same moves as it did during competition.
